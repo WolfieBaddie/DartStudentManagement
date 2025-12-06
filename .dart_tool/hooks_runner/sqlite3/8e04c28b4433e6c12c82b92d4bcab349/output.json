@@ -1,0 +1,17 @@
+{
+  "assets": [
+    {
+      "encoding": {
+        "file": "C:\\Users\\Dell Precision 7560\\Documents\\Project\\StudentManagement\\.dart_tool\\hooks_runner\\shared\\sqlite3\\build\\download-3866720\\sqlite3.x64.windows.dll",
+        "id": "package:sqlite3/src/ffi/libsqlite3.g.dart",
+        "link_mode": {
+          "type": "dynamic_loading_bundle"
+        }
+      },
+      "type": "code_assets/code"
+    }
+  ],
+  "assets_for_linking": {},
+  "status": "success",
+  "timestamp": "2025-12-06 20:44:44.000"
+}

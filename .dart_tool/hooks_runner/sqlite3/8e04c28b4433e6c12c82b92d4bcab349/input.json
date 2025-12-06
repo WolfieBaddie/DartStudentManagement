@@ -1,0 +1,21 @@
+{
+  "assets": {},
+  "config": {
+    "build_asset_types": [
+      "code_assets/code"
+    ],
+    "extensions": {
+      "code_assets": {
+        "link_mode_preference": "dynamic",
+        "target_architecture": "x64",
+        "target_os": "windows"
+      }
+    },
+    "linking_enabled": false
+  },
+  "out_dir_shared": "C:\\Users\\Dell Precision 7560\\Documents\\Project\\StudentManagement\\.dart_tool\\hooks_runner\\shared\\sqlite3\\build\\",
+  "out_file": "C:\\Users\\Dell Precision 7560\\Documents\\Project\\StudentManagement\\.dart_tool\\hooks_runner\\sqlite3\\8e04c28b4433e6c12c82b92d4bcab349\\output.json",
+  "package_name": "sqlite3",
+  "package_root": "C:\\Users\\Dell Precision 7560\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\sqlite3-3.1.1\\",
+  "user_defines": {}
+}
